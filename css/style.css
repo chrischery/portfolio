@@ -1,1 +1,12 @@
-
+body {
+    border-image-width: url(../photo1.webp);
+    border-image-width: 300;
+}
+{
+    border-image-width: url(../photo2.webp);
+    border-image-width: 300;
+}
+{
+    border-image-width: url(../photo3.png);
+    border-image-width: 300;
+}
