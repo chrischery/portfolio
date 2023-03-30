@@ -1,1 +1,54 @@
+body{
+    background-color: antiquewhite;
+    border-block-style: dashed dotted;
+    border-left-style: dashed;
+    border-right-style: dashed;
+    border-left-color: brown;
+    border-right-color: brown;
+    border-block-color: brown;
+}
+
+h1{
+    text-align: center;
+    padding: 1px;
+}
+
+span{
+    color: brown;
+}
+
+.images{
+    text-align: center;  
+}
+
+.info{
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 1px;
+    padding-top: 10px;
+    line-height: 1.6;
+    padding: 0px 50px;
+   
+}
+
+.check{
+    font-style: italic;
+    text-align: justify;
+    line-height: 3px;
+    padding-top: 10px;
+    padding-left: 27%;
+
+}
+
+.breeze{
+    text-align: center;
+    padding-top: 10px;
+}
+
+.fan{
+    text-align: end;
+    font-style: italic;
+    font-size: xx-small;
+    font-weight: lighter;
+}
 
