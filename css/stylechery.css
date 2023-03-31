@@ -1,0 +1,152 @@
+* {
+	max-width: 700px;
+	margin: auto;
+  }
+  
+  div {
+	border-radius: 5px;
+  }
+  
+  #header {
+	height: 20px;
+	width: 100%;
+	background-color: #FDBEC5;
+	position: inherit;
+	z-index: 1;
+  }
+
+  .left {
+	height: 1008px;
+	width: 20px;
+	background-color: #FDBEC5;
+	float: left;
+  }
+
+  .right {
+	height: 1008px;
+	width: 20px;
+	background-color: #FDBEC5;
+	float: right;
+	position: inherit;
+  }
+  
+  .footer {
+	height: 20px;
+	width: 100%;
+	background-color:#FDBEC5;
+  }
+  
+  hr{
+	border-top: 1px solid #fc997b;
+	border-style: dashed;
+	width:80%;
+	text-align:left;
+	margin-left:60px;
+  }
+  
+  .image{
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+  	margin-left: auto;
+  	margin-right: auto;
+	display: block;
+ }
+ .hi {
+	width: 20%;
+	margin-right: 314px;
+ }
+
+  h2{
+	color: #4badb4;
+	text-align: center;
+  }
+
+  h1{
+	text-align: center;
+	opacity: 0.4;
+  }
+
+  h3{
+	text-align: center;	
+  }
+
+  span {
+	color:  #4badb4;
+  }
+
+  ul{
+	line-height: 140%;
+  }
+  
+  li{
+	list-style-type:square;
+  }
+
+  .first {
+	display: inline-block;
+	margin-top: 6px;
+	margin-left: .2%;
+	width: 94%;	
+	height: 1000px;
+	background-color: #FFF9EE;
+  }
+
+  p,
+  li {
+	font-family: 'Cormorant Garamond';
+  }
+  
+  .objective {
+	padding-top: 15px;
+	margin-left: 40px;
+	text-align: center;
+    letter-spacing: 1px;   
+    line-height: 0.6cm; 
+  }
+
+  .personal{
+	padding-top: 30px;
+	margin-left: 25px;
+    line-height: 0.6cm;
+    letter-spacing: 1px; 
+  }
+
+  .educ {
+	padding-top: 30px;
+	margin-left: 25px;
+    letter-spacing: 1px; 
+    line-height: 0.6cm;
+  }
+ 
+  .work{
+	padding-top: 30px;
+	margin-left: 30px;
+    letter-spacing: 1px; 
+    line-height: 0.6cm;
+  }
+
+  .btn{
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;	
+    border-radius: 30px;
+	margin-left: 2%;
+  }
+
+ .btn1{
+	margin-left: 85%;
+	background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;	
+    border-radius: 30px;
+ }
+  
+ img {
+	width: 30px;
+	height: 15px; 
+ }
