@@ -36,7 +36,7 @@ span{
     text-align: justify;
     line-height: 3px;
     padding-top: 10px;
-    padding-left: 27%;
+    padding-left: 35%;
 
 }
 
@@ -52,3 +52,13 @@ span{
     font-weight: lighter;
 }
 
+ .btn1{
+	margin-left: 50%;
+	background-color: antiquewhite;
+    color: rgb(0, 17, 255);
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;	
+    border-radius: 30px;
+ }
+  
